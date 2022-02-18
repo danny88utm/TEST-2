@@ -1,0 +1,21 @@
+Question 1
+
+a)Explain characteristics of Robotic Processing Automation or RPA
+
+-Robotic Process Automation is the use of technological applications to replicate
+ the activities involved in the interactions between a human being and a UI interface of a computer.
+-No programming code required, so it is a beginner friendly
+-User friendly, Robotic process automation softwares are usually very easy to understand and use.
+ No special kind of knowledge is needed by users in order to use RPA.
+-Not disruptive, processes in RPA is very straightforward and simple.
+
+
+b)Elaborate the steps you should follow to implement Robotic Process Automation
+
+1. List out Processes To Automate,  develop a strategy to pick the right processes and then prioritize them based on metrics
+2. Perform Feasibility Assessment,  evaluate to what extent the process can be automated.
+3. Readjust,  identify the processes that are not structured, standardized, optimized, recorded, or not executed as planned
+4. Gather User Stories,  features of an application to be built from an end-user perspective.
+5. Start Development Process, create automated scripts and program code using RPA tools
+6. Test RPA Process, testing to study performance in all possible scenarios and bugs
+7. Reconfirm and Deploy,  confirm the results are perfect and deploy the complete RPA solution.
