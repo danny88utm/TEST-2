@@ -1,8 +1,6 @@
 # RPAMonitorDemo
 
-## How it Works
 
-Watch the [video](https://youtu.be/60MvOc76K5o).
 
 ## Prerequisies
 
